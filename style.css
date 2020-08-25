@@ -1,0 +1,27 @@
+*{
+    font-family: 'MuseoSansCyrl', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    font-family: 'MuseoSansCyrl', sans-serif;
+}
+
+.about__bali {
+    font-family: 'PTSerif', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 280px;
+    color: #F8EEE4;
+}
+
+.about__ind {
+    font-family: 'PTSerif', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 98px;
+    color: #F8EEE4;
+}
