@@ -1,13 +1,17 @@
 @font-face {
     font-family: "MuseoSansCyrl";
-    src: url("/fonts/MuseoSansCyrl.woff") format("woff");
+    src: url("/fonts/MuseoSansCyrl.woff") format("woff"),
+         url("/fonts/MuseoSansCyrl.woff2") format("woff2"),
+         url("/fonts/MuseoSansCyrl.otf") format("otf");  
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "PTSerif";
-    src: url("/fonts/PTSerif.ttf") format("ttf");
+    src: url("/fonts/PTSerifBold.ttf") format("ttf"),
+         url("/fonts/PTSerifRegular.ttf") format("ttf"),
+         url("/fonts/PTSerif-BoldItalic.ttf") format("ttf");
     font-style: normal;
     font-weight: bold;
 }
