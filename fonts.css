@@ -1,6 +1,6 @@
 @font-face {
     font-family: "MuseoSansCyrl";
-    src: url('fonts/MuseoSansCyrl-500.eot') format('opentype'),
+    src: url('fonts/MuseoSansCyrl-500.eot'),
          url('fonts/MuseoSansCyrl-500.woff') format('woff'),
          url('fonts/MuseoSansCyrl-500.ttf') format('truetype');  
     font-weight: 500;
@@ -18,7 +18,7 @@
 
 @font-face {
     font-family: "MuseoSansCyrl";
-    src: url('fonts/MuseoSansCyrl-700.eot') format('opentype'),
+    src: url('fonts/MuseoSansCyrl-700.eot'),
          url('fonts/MuseoSansCyrl-700.woff') format('woff'),
          url('fonts/MuseoSansCyrl-700.ttf') format('truetype');  
     font-weight: 700;
