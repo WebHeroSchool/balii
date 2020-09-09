@@ -42,11 +42,13 @@
 .logo {
     flex: 1;
     display: flex;
-    justify-content: center;
+    justify-content: start;
 }
 
 .container {
     flex:2;
+    text-align: right;
+    margin-right: 300px;
 }
 
 .menu {
@@ -111,6 +113,8 @@
     display: flex;
     align-items: center;
 }
+
+
 
 
 
