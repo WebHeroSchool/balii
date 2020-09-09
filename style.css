@@ -1,0 +1,120 @@
+* {
+    font-family: 'MuseoSansCyrl', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+	margin: 0;
+	padding: 0;
+}
+
+/*.about__bali {
+    font-family: 'PTSerif', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 280px;
+    color: #F8EEE4;
+}
+*/
+/*.about__ind {
+    font-family: 'PTSerif', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 98px;
+    color: #F8EEE4;
+}
+*/
+.wrap {
+    max-width: 1366px;
+    min-width: 375px;
+    margin: 0% auto;
+    background: url(img/fon.svg);
+    background-size: cover;
+    font-family: 'Muceo';
+}
+
+.header {
+    width: 90%;
+    height: 200px;
+    margin: 0% auto;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    flex: 1;
+    display: flex;
+    justify-content: start;
+}
+
+.container {
+    flex:2;
+    text-align: right;
+    margin-right: 300px;
+}
+
+.menu {
+    flex: 2;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__link {
+    font-family: 'Museo Sans Cyrl';
+    font-size: 22px;
+    line-height: 56px;
+    text-decoration: none;
+    color: #F8EEE4;
+    font-weight: bold;
+}
+
+.main {
+    display: flex;
+}
+
+.info {
+    height: 60px;
+    flex: 1;
+}
+
+.about {
+    max-width: 530px;
+}
+
+.about__img {
+    height: 250px;
+    background: url(img/Bali.png) no-repeat;
+    justify-content: flex-end;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.about__text {
+    max-width: 400px;
+    color: #F8EEE4;
+    margin: 20px;
+}
+
+.button__travel {
+    width: 209px;
+    height: 44px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+    border-radius: 22px;
+    background-color: #D4BEA3;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.div__icons {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
